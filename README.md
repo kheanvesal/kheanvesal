@@ -89,16 +89,6 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kheanvesal&show_icons=true&theme=tokyonight" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheanvesal&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
