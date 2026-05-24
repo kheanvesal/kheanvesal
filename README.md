@@ -1,108 +1,136 @@
-````markdown
-# Hi there 👋, I'm Vesal Khean
+<h1 align="center">Hi there 👋, I'm Vesal Khean</h1>
 
-## Introduction
-I am a passionate researcher, lecturer, and developer specializing in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. I enjoy building intelligent systems, teaching students, and exploring innovative technologies that solve real-world problems.
+<h3 align="center">
+Lecturer and AI Researcher
+</h3>
 
----
-
-## Background
-- Researcher and Lecturer in Computer Science and Artificial Intelligence
-- Experienced in Machine Learning, Deep Learning, Computer Vision, and Web Development
-- Interested in Data Science, Information Retrieval, NLP, and AI Applications
-- Passionate about teaching programming, AI, and modern technologies
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kheanvesal&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
 
 ---
 
-## Education
+## 🚀 Introduction
+
+I am a passionate researcher, lecturer, and developer specializing in **Artificial Intelligence (AI)**, **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
+
+I enjoy building intelligent systems, teaching students, software consulting, and exploring innovative technologies that solve real-world problems.
+
+---
+
+## 👨‍💻 Background
+
+- 🎓 Researcher and Lecturer in Computer Science, Data Science, and Artificial Intelligence  
+- 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision, and Web Development  
+- 📚 Interested in Data Science, Information Retrieval, NLP, and AI Applications  
+- 💡 Passionate about teaching programming, AI, and modern technologies  
+
+---
+
+## 🎓 Education
+
 ### Master of Science (M.S.)
-- Specialized in Applied Machine Learning and Deep Learning in Computer Vision
-- South Korea
+- M.S. Artificial Intelligence in Computer Vision  
+- South Korea 🇰🇷  
 
 ### Bachelor Degree
-- Computer Science
-- Royal University of Phnom Penh (RUPP)
+- Computer Science and Engineering
+- Royal University of Phnom Penh (RUPP) 🇰🇭  
 
 ---
 
-## Experience
-### 1-Lecturer & Researcher
-- Teaching AI, Machine Learning, Database Systems, Information Retrieval, and Data Science
-- Supervising student projects and research activities
-- Developing educational materials and practical coding exercises
+## 💼 Experience
 
-### 2-AI & Machine Learning Projects
-- Face Recognition Attendance System
-- Smart Khmer Tourist Chatbot
-- Facial Emotion Recognition using Machine Learning
-- Data Analysis and Predictive Modeling Projects
+### 👨‍🏫 Lecturer & Researcher
+- Teaching AI, Machine Learning, Database Systems, Information Retrieval, and Data Science  
+- Supervising student projects and research activities  
+- Developing educational materials and practical coding exercises  
 
-### 3-Web Development
-- Backend Development with Node.js and Python
-- Frontend Development with React.js
-- Database Design using MySQL
+### 🤖 AI & Machine Learning Projects
+- Face Recognition Attendance System  
+- Smart Khmer Tourist Chatbot  
+- Facial Emotion Recognition using Machine Learning  
+- Data Analysis and Predictive Modeling Projects  
+- Human-Human Interaction
+- Object Detection for Surveillance Video
 
----
-
-## Skills & Expertise
-
-### Programming Languages
-- Python
-- JavaScript
-- SQL
-- HTML & CSS
-
-### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Data Analysis
-
-### Frameworks & Tools
-- PyTorch
-- TensorFlow
-- OpenCV
-- React.js
-- Node.js
-- MySQL
-- Git & GitHub
-
-### Research Areas
-- Computer Vision
-- Information Retrieval
-- Human-Computer Interaction (HCI)
-- AI for Education
+### 🌐 Web Development
+- Backend Development
+- Frontend Development
+- Database Design 
 
 ---
 
-## Contact Me
-- Email: khean.vesal@itc.edu.kh
-- Portfolio: https://your-portfolio-link.com](https://sites.google.com/view/vesalkhean/about-me
-- LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/khean-vesal
+## 🛠️ Skills & Expertise
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Natural Language Processing (NLP)  
+- Data Analysis  
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,react,nodejs,git,github,mysql" />
+</p>
+
+### 🔬 Research Areas
+- Computer Vision  
+- Information Retrieval  
+- Human-Computer Interaction (HCI)  
+- AI for Education  
+- Document Analysis
 
 ---
 
-## GitHub Stats
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-````
-
----
-
-## Visitor Count
-
-```md
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
-```
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kheanvesal&show_icons=true&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheanvesal&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## Quote
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kheanvesal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="mailto:khean.vesal@itc.edu.kh">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://sites.google.com/view/vesalkhean/about-me">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khean-vesal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kheanvesal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ✨ Quote
 
 > “Keep learning, keep building, and keep improving.”
 
-```
-```
+---
