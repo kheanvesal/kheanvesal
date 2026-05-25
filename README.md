@@ -10,7 +10,7 @@ Lecturer and AI Researcher
 
 ---
 
-## 🚀 Introduction
+## Introduction
 
 I am a passionate researcher, lecturer, and developer specializing in **Artificial Intelligence (AI)**, **Machine Learning**, **Deep Learning**, and **Computer Vision**.  
 
@@ -18,7 +18,7 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 👨‍💻 Background
+## Background
 
 - 🎓 Researcher and Lecturer in Computer Science, Data Science, and Artificial Intelligence  
 - 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision, and Web Development  
@@ -27,7 +27,7 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Master of Science (M.S.)
 - M.S. Artificial Intelligence in Computer Vision  
@@ -39,14 +39,14 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 👨‍🏫 Lecturer & Researcher
+### Lecturer & Researcher
 - Teaching AI, Machine Learning, Database Systems, Information Retrieval, and Data Science  
 - Supervising student projects and research activities  
 - Developing educational materials and practical coding exercises  
 
-### 🤖 AI & Machine Learning Projects
+### AI & Machine Learning Projects
 - Face Recognition Attendance System  
 - Smart Khmer Tourist Chatbot  
 - Facial Emotion Recognition using Machine Learning  
@@ -54,33 +54,33 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 - Human-Human Interaction
 - Object Detection for Surveillance Video
 
-### 🌐 Web Development
+### Web Development
 - Backend Development
 - Frontend Development
 - Database Design 
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
 </p>
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 - Machine Learning  
 - Deep Learning  
 - Computer Vision  
 - Natural Language Processing (NLP)  
 - Data Analysis  
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,react,nodejs,git,github,mysql" />
 </p>
 
-### 🔬 Research Areas
+### Research Areas
 - Computer Vision  
 - Information Retrieval  
 - Human-Computer Interaction (HCI)  
@@ -89,7 +89,7 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kheanvesal&theme=tokyonight" />
@@ -97,7 +97,7 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="mailto:khean.vesal@itc.edu.kh">
@@ -119,7 +119,7 @@ I enjoy building intelligent systems, teaching students, software consulting, an
 
 ---
 
-## ✨ Quote
+## Quote
 
 > “Keep learning, keep building, and keep improving.”
 
